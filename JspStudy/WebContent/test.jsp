@@ -12,5 +12,7 @@
 	 System.out.println("str=>"+str);
      out.println("<h1>"+"str="+str+"</h1>");
 %>
+<hr>
+str의 값 출력=<%=str %>
 </body>
 </html>
